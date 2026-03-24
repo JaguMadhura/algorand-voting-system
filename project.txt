@@ -1,0 +1,8 @@
+Algorand Project Initial Setup
+
+This file is created to demonstrate the initial structure of the project.
+
+Future development will include:
+- Smart contracts
+- Blockchain integration
+- Application logic
